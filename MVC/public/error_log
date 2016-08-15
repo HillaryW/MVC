@@ -1,0 +1,8 @@
+[31-Jul-2016 23:34:29 America/Chicago] PHP Parse error:  syntax error, unexpected ''..app/init.php'' (T_CONSTANT_ENCAPSED_STRING) in /home/hillary/public_html/IT355/MVC/public/index.php on line 2
+[31-Jul-2016 23:35:02 America/Chicago] PHP Parse error:  syntax error, unexpected ''..app/init.php'' (T_CONSTANT_ENCAPSED_STRING) in /home/hillary/public_html/IT355/MVC/public/index.php on line 2
+[31-Jul-2016 23:36:33 America/Chicago] PHP Parse error:  syntax error, unexpected ''..app/init.php'' (T_CONSTANT_ENCAPSED_STRING) in /home/hillary/public_html/IT355/MVC/public/index.php on line 2
+[31-Jul-2016 23:38:21 America/Chicago] PHP Warning:  require_once(..app/init.php): failed to open stream: No such file or directory in /home/hillary/public_html/IT355/MVC/public/index.php on line 2
+[31-Jul-2016 23:38:21 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '..app/init.php' (include_path='.:/opt/php54/lib/php') in /home/hillary/public_html/IT355/MVC/public/index.php on line 2
+[01-Aug-2016 00:12:38 America/Chicago] PHP Warning:  require_once(../app/controller/home.php): failed to open stream: No such file or directory in /home/hillary/public_html/IT355/MVC/app/core/App.php on line 22
+[01-Aug-2016 00:12:38 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../app/controller/home.php' (include_path='.:/opt/php54/lib/php') in /home/hillary/public_html/IT355/MVC/app/core/App.php on line 22
+[01-Aug-2016 00:50:52 America/Chicago] PHP Warning:  Missing argument 2 for Controller::view(), called in /home/hillary/public_html/IT355/MVC/app/controllers/home.php on line 10 and defined in /home/hillary/public_html/IT355/MVC/app/core/Controller.php on line 12

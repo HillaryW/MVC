@@ -1,0 +1,1 @@
+[31-Jul-2016 23:37:21 America/Chicago] PHP Parse error:  syntax error, unexpected ''core/App.php'' (T_CONSTANT_ENCAPSED_STRING) in /home/hillary/public_html/IT355/MVC/app/init.php on line 3
